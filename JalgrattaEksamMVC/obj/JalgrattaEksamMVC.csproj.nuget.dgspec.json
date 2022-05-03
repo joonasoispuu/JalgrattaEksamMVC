@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\JalgrattaEksamMVC\\JalgrattaEksamMVC\\JalgrattaEksamMVC.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\New folder\\JalgrattaEksamMVC\\JalgrattaEksamMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\JalgrattaEksamMVC\\JalgrattaEksamMVC\\JalgrattaEksamMVC.csproj": {
+    "C:\\Users\\Admin\\Desktop\\New folder\\JalgrattaEksamMVC\\JalgrattaEksamMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\JalgrattaEksamMVC\\JalgrattaEksamMVC\\JalgrattaEksamMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder\\JalgrattaEksamMVC\\JalgrattaEksamMVC.csproj",
         "projectName": "JalgrattaEksamMVC",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\JalgrattaEksamMVC\\JalgrattaEksamMVC\\JalgrattaEksamMVC.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\New folder\\JalgrattaEksamMVC\\JalgrattaEksamMVC.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\JalgrattaEksamMVC\\JalgrattaEksamMVC\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\New folder\\JalgrattaEksamMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
