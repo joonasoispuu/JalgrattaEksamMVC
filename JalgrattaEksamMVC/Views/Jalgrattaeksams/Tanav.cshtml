@@ -1,0 +1,7 @@
+﻿@model IEnumerable<JalgrattaEksamMVC.Models.Jalgrattaeksam>
+
+@{
+    ViewData["Title"] = "Tänava sõit";
+}
+
+<partial name="_Osaeksam" model="@Model" view-data='@new ViewDataDictionary(ViewData) {{"Osa",nameof(Jalgrattaeksam.Tanav)}}' />

@@ -1,10 +1,10 @@
 ﻿@model IEnumerable<JalgrattaEksamMVC.Models.Jalgrattaeksam>
 
 @{
-    ViewData["Title"] = "Teooriatulemus";
+    ViewData["Title"] = "Teooria tulemus";
 }
 
-<h1>Teooriatulemus</h1>
+<h1>Teooria tulemus</h1>
 
 <p>
     <a asp-action="Registreeri">Registreeri</a>
@@ -21,7 +21,6 @@
             <th>
                 @Html.DisplayNameFor(model => model.Teooriatulemus)
             </th>
-
             <th></th>
         </tr>
     </thead>
@@ -37,13 +36,13 @@
                 </td>
                 <td>
                     <form asp-action="TeooriaTulemus">
-                        <input type="hidden" asp-for="@item.Id" />
-                        <div class="d-flex ">
+                        <input type="hidden" value="@item.Id" name="@nameof(item.Id)" />
+                        <div class="d-flex">
                             <div class="form-group mr-1">
-                                <input type="number" value="@item.Teooriatulemus" name="@nameof(item.Teooriatulemus)" min="1" max="10" class=" form-control" />
+                                <input type="number" value="@item.Teooriatulemus" name="@nameof(item.Teooriatulemus)" min="-1" max="10" class="form-control" />
                             </div>
                             <div class="form-group">
-                                <input type="submit" value="Create" class="btn btn-primary" />
+                                <input type="submit" value="Salvesta" class="btn btn-primary" />
                             </div>
                         </div>
                     </form>

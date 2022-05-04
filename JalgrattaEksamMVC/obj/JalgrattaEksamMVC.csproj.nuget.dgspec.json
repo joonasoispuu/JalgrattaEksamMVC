@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\New folder\\JalgrattaEksamMVC\\JalgrattaEksamMVC.csproj": {}
+    "C:\\Users\\Admin\\JalgrattaEksamMVC\\JalgrattaEksamMVC\\JalgrattaEksamMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\New folder\\JalgrattaEksamMVC\\JalgrattaEksamMVC.csproj": {
+    "C:\\Users\\Admin\\JalgrattaEksamMVC\\JalgrattaEksamMVC\\JalgrattaEksamMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder\\JalgrattaEksamMVC\\JalgrattaEksamMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\JalgrattaEksamMVC\\JalgrattaEksamMVC\\JalgrattaEksamMVC.csproj",
         "projectName": "JalgrattaEksamMVC",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\New folder\\JalgrattaEksamMVC\\JalgrattaEksamMVC.csproj",
+        "projectPath": "C:\\Users\\Admin\\JalgrattaEksamMVC\\JalgrattaEksamMVC\\JalgrattaEksamMVC.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\New folder\\JalgrattaEksamMVC\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\JalgrattaEksamMVC\\JalgrattaEksamMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,25 +42,25 @@
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.11, )"
+              "version": "[5.0.13, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.11, )"
+              "version": "[5.0.13, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[5.0.11, )"
+              "version": "[5.0.13, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.16, )"
+              "version": "[5.0.12, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.16, )"
+              "version": "[5.0.12, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
